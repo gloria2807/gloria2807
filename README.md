@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gloria2807
 - 👀 I’m interested in anything related to Technology, especially programming
-- 🌱 I’m currently a Java full-stack developer
-- 💞️ I’m looking to collaborate on Java projects
+- 🌱 I’m currently a Full-stack web developer
+- 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me : reachout to me on nkemaconam@gmail.com
 
 <!---
